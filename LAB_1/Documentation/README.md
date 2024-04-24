@@ -20,11 +20,11 @@ c. Blink a yellow LED with 20ms on and 10ms off \
 ![c1_part2_c](https://github.com/flowerwallpaper/ECE_16_Camille_Final/blob/main/LAB_1/Documentation/figs/c1_part2_c.gif) \
 
 **Challenge 2** involves creating a stopwatch, and printing the count in seconds every 100 ms. My code checks to see if the button has been pushed, whether that starts or stops the stopwatch, and iterates or doesn't iterate count, and prints count every 100 ms. \
-![c2](https://github.com/flowerwallpaper/ece16-assignment-flowerwallpaper/assets/103080777/b1900976-2867-4613-b678-e2528aa60d04) \
+![c2](https://github.com/flowerwallpaper/ECE_16_Camille_Final/blob/main/LAB_1/Documentation/figs/c2.gif) \
 
 **Challenge 3** involves counting the number of button pushes, and decrementing every second if the button hasn't been pushed for three seconds. My code increments count when the button is pushed, and checks to see if it has been pushed in the last three seconds. If it hasn't, count is decremented once per second. Count is printed every 100 ms.
 
-![c3](https://github.com/flowerwallpaper/ece16-assignment-flowerwallpaper/assets/103080777/00e481cd-d24c-428a-9cf3-affd140f3d1c)
+![c3](https://github.com/flowerwallpaper/ECE_16_Camille_Final/blob/main/LAB_1/Documentation/figs/c3.gif)
 
 
 
