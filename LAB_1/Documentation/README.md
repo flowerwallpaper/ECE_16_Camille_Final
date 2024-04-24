@@ -10,14 +10,14 @@ a. Blink a red LED at 1 Hz \
 b. Blink a blue LED at 5 Hz \
 ![c1_part1_b](https://github.com/flowerwallpaper/ECE_16_Camille_Final/blob/main/LAB_1/Documentation/figs/c1_part1_b.gif) \
 c. Blink a yellow LED at 10 Hz \
-![c1_part1_c](https://github.com/flowerwallpaper/ece16-assignment-flowerwallpaper/assets/103080777/c53eea24-f9fd-49f5-8302-78530225ccc6) \
+![c1_part1_c](https://github.com/flowerwallpaper/ECE_16_Camille_Final/blob/main/LAB_1/Documentation/figs/c1_part1_c.gif) \
 **Part 2** I set the light to be on and off for the required amount of time \
 a. Blink a red LED with 1s on and 100ms off \
-![c1_part2_a](https://github.com/flowerwallpaper/ece16-assignment-flowerwallpaper/assets/103080777/a2bf3be3-c5a2-4197-83e9-7d0adae014c1) \
+![c1_part2_a](https://github.com/flowerwallpaper/ECE_16_Camille_Final/blob/main/LAB_1/Documentation/figs/c1_part2_a.gif) \
 b. Blink a blue LED with 200ms on and 50ms off \
-![c1_part2_b](https://github.com/flowerwallpaper/ece16-assignment-flowerwallpaper/assets/103080777/2b7980f4-6e57-4fc7-bc33-0d1542b22137) \
+![c1_part2_b](https://github.com/flowerwallpaper/ECE_16_Camille_Final/blob/main/LAB_1/Documentation/figs/c1_part2_b.gif) \
 c. Blink a yellow LED with 20ms on and 10ms off \
-![c1_part2_c](https://github.com/flowerwallpaper/ece16-assignment-flowerwallpaper/assets/103080777/135b4715-c276-4f26-a6c9-4a1df9070638) \
+![c1_part2_c](https://github.com/flowerwallpaper/ECE_16_Camille_Final/blob/main/LAB_1/Documentation/figs/c1_part2_c.gif) \
 
 **Challenge 2** involves creating a stopwatch, and printing the count in seconds every 100 ms. My code checks to see if the button has been pushed, whether that starts or stops the stopwatch, and iterates or doesn't iterate count, and prints count every 100 ms. \
 ![c2](https://github.com/flowerwallpaper/ece16-assignment-flowerwallpaper/assets/103080777/b1900976-2867-4613-b678-e2528aa60d04) \
