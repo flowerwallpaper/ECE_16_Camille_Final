@@ -8,7 +8,7 @@ when I hit the push button, and then I set it up to blink an LED.
 a. Blink a red LED at 1 Hz \
 ![c1_part1_a](https://github.com/flowerwallpaper/ECE_16_Camille_Final/blob/main/LAB_1/Documentation/figs/c1_part1_a.gif) \
 b. Blink a blue LED at 5 Hz \
-![c1_part1_b](https://github.com/flowerwallpaper/ece16-assignment-flowerwallpaper/assets/103080777/c5579636-3641-4c36-9255-a8045c634e13) \
+![c1_part1_b](https://github.com/flowerwallpaper/ECE_16_Camille_Final/blob/main/LAB_1/Documentation/figs/c1_part1_b.gif) \
 c. Blink a yellow LED at 10 Hz \
 ![c1_part1_c](https://github.com/flowerwallpaper/ece16-assignment-flowerwallpaper/assets/103080777/c53eea24-f9fd-49f5-8302-78530225ccc6) \
 **Part 2** I set the light to be on and off for the required amount of time \
