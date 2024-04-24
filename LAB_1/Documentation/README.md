@@ -6,7 +6,7 @@ when I hit the push button, and then I set it up to blink an LED.
 **Challenge 1** was on blinking an LED.
 **Part 1** I had the light turn on and off such that each on/off cycle would take 1/the required number of Hz of a second \ 
 a. Blink a red LED at 1 Hz \
-![c1_part1_a](https://github.com/flowerwallpaper/ece16-assignment-flowerwallpaper/assets/103080777/cd0527d7-b2a1-4534-b054-ac5702d644f5) \
+![c1_part1_a](https://github.com/flowerwallpaper/ECE_16_Camille_Final/blob/main/LAB_1/Documentation/figs/c1_part1_a.gif) \
 b. Blink a blue LED at 5 Hz \
 ![c1_part1_b](https://github.com/flowerwallpaper/ece16-assignment-flowerwallpaper/assets/103080777/c5579636-3641-4c36-9255-a8045c634e13) \
 c. Blink a yellow LED at 10 Hz \
